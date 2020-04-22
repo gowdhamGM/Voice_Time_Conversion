@@ -10,7 +10,7 @@ Avaliable conversion units:
   
   ******************************************************************************************
 
-Voice cmd for converstion:
+Voice cmd for conversion:
   1) convert 1 hour equal to minutes
   2) convert 1 and half hour equal to second
   3) convert 1 hour 45 minutes equal to seconds
